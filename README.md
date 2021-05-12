@@ -1,5 +1,5 @@
-# TecBlog
+# TecBlog :newspaper:
 
-_italico Exercício para prática de html5 e css3_
+_italico Exercício para prática de html5 e css3_ :computer:
 
  
